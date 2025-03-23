@@ -1,23 +1,138 @@
-## Hi there 👋
+<h1 align="center">
+Hello, I'm Natoli Tesgera!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-# 💫 About Me:
-🔭 I’m currently working on a full stack social networking app<br>👯 I’m looking to collaborate on LLM Startup<br>🌱 I’m currently learning backend development<br>🔗 https://natoli-portfolio.vercel.app/<br>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+at+Concordia;Full+Stack+Web+and+Software+Developer;&center=true&width=450&height=45"></a>
+</p>
+<hr/>
+<samp>
+With an insatiable appetite for ongoing learning 📖, strong organizational skills👮‍♀️, meticulous attention🕵️‍♀️ to detail, and a knack for excelling in team-oriented settings 👥, I consistently try delivering valuable contributions to software engineering projects 👨‍💻.
+</samp>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/natoli74_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natoli-tesgera-68001a282) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Opening_Bat_4127) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fs.natoli@gmail.com) 
+## 🔥 Streak Stats
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Natoli74&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Natoli74&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Natoli74&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Natoli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Natoli74&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Natoli74&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🛠️ My Favorite Tools
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Natoli74&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+### 👨‍💻 Programming Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+    <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href=""><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href=""><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
+    <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="XML" src="https://img.shields.io/badge/XML%20-%23007396.svg?logo=xml&logoColor=white"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
+<a href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI%20-%233197BD.svg?logo=chakra-ui&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white"></a>
+<a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?logo=.net&logoColor=white"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?logo=next.js&logoColor=white"></a>
+<a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?logo=spring-boot&logoColor=white"></a>
+<a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Grade%20-%2300C853.svg?logo=gradle&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven%20-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito%20-%23DA672C.svg?logo=mockito&logoColor=white"></a>
+<a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?logo=npm&logoColor=white"></a>
+<a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS%20-%23068D9D.svg?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+<a href="#"><img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Google Cloud Platform (GCP)" src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
+<a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+<a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase%20-%23005696.svg?logo=liquibase&logoColor=white"></a>
+<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI%20-%2322185b.svg?logo=circleci&logoColor=white"></a>
+<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver%20-%230C5C8B.svg?logo=dbeaver&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
+<a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube%20-%230C5C8B.svg?logo=sonarqube&logoColor=white"></a>
+<a href="#"><img alt="Peewee" src="https://img.shields.io/badge/Peewee%20-%2300a65a.svg?logo=peewee&logoColor=white"></a>
+<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23D24939.svg?logo=jenkins&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-%230052CC.svg?logo=bitbucket&logoColor=white"></a>
+<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+<a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/Code%20Blocks%20-%232E2E2E.svg?logo=codeblocks&logoColor=white"></a>
+<a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+<a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence%20-%23172BF4.svg?logo=confluence&logoColor=white"></a>
+<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GraphiQL" src="https://img.shields.io/badge/GraphiQL%20-%23E10098.svg?logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij%20-%23000000.svg?logo=intellij-idea&logoColor=white"></a>
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-%230052CC.svg?logo=jira&logoColor=white"></a>
+<a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/Netbeans%20-%23E41B13.svg?logo=apache-netbeans-ide&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="pyCharm" src="https://img.shields.io/badge/pyCharm%20-%23000000.svg?logo=pycharm&logoColor=white"></a>
+<a href="#"><img alt="Rstudio" src="https://img.shields.io/badge/Rstudio%20-%23000000.svg?logo=rstudio&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?logo=webstorm&logoColor=white"></a>
+</p>
+
+## 📊 Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Natoli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Natoli74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Natoli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natoli74&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Natoli's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natoli74&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+</details>
+
+## 🙋🏾‍♂️ Let's Connect
+
+<p align="center">
+	<a href="https://natoli-portfolio.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/Natoli74" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/natoli-tesgera-68001a282/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/natoli74_/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:fs.natoli@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
