@@ -12,13 +12,6 @@ Hello, I'm Natoli Tesgera!
 With an insatiable appetite for ongoing learning 📖, strong organizational skills👮‍♀️, meticulous attention🕵️‍♀️ to detail, and a knack for excelling in team-oriented settings 👥, I consistently try delivering valuable contributions to software engineering projects 👨‍💻.
 </samp>
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Natoli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Natoli74&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 ## 🛠️ My Favorite Tools
 
