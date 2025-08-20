@@ -5,13 +5,22 @@ Hello, I'm Natoli Tesgera!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+and+Software+Developer;&center=true&width=450&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+at+MSUM;Full+Stack+Web+and+Software+Developer;&center=true&width=450&height=45"></a>
 </p>
 <hr/>
 <samp>
 With an insatiable appetite for ongoing learning 📖, strong organizational skills👮‍♀️, meticulous attention🕵️‍♀️ to detail, and a knack for excelling in team-oriented settings 👥, I consistently try delivering valuable contributions to software engineering projects 👨‍💻.
 </samp>
 
+## 🔭 Currently Working On
+- **AI Research**: Developing multi-agent LLM applications for political science and marketing
+- **Full-Stack Projects**: Building real-time collaboration tools with Next.js and TypeScript
+- **Open Source**: Contributing to educational and community-driven projects
+
+## 🌱 Learning & Exploring
+- Advanced AI/ML techniques with HuggingFace
+- Cloud infrastructure with AWS and Azure
+- System design for scalable applications
 
 ## 🛠️ My Favorite Tools
 
